@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+@import '~@angular/material/prebuilt-themes/indigo-pink.css';
+@import "~ag-grid-community/dist/styles/ag-grid.css";
+@import "~ag-grid-community/dist/styles/ag-theme-material.css";
+
+body{
+  margin: 0;
+  padding:0;
+}
+
+.fondo{
+  background-color: rgba(0, 0, 0, 0.2);
+}
